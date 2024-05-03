@@ -11,5 +11,5 @@
 
 ## Uso
 
-Para ejecutar la simulación, simplemente compila y ejecuta el archivo `SupermarketSimulation.java`.
+Para ejecutar la simulación, simplemente compila y ejecuta el archivo `SimuladorSupermercado.java`.
 
